@@ -1,22 +1,23 @@
 :root {
-  --linear-red: linear-gradient(#ff5e6b,#ff2f14);
-  --linear-green: linear-gradient(#46ffc1, #19fd24);
-  --linear-blue: linear-gradient(#4366ff, #0e0d5f);
-  --linear-red-2: linear-gradient(#00fff2,#73ff8a);
-  --linear-green-2: linear-gradient(#ff0095, #fff025);
-  --linear-blue-2: linear-gradient(#700099, #5792ff);
+  --red-linear: linear-gradient(#ff5e6b,#ff2f14);
+  --red-second-linear: linear-gradient(#ff0095, #fff025);
   
-  --radial-red: radial-gradient(#ff5e6b,#ff2f14);
-  --radial-green: radial-gradient(#46ffc1, #19fd24);
-  --radial-blue: radial-gradient(#4366ff, #0e0d5f);
-  --radial-green-2: radial-gradient(#00fff2,#00ff2a);
-  --radial-pink: radial-gradient(#ff0095, #fff025);
-  --radial-purple: radial-gradient(#700099, #5792ff);
+  --green-linear: linear-gradient(#46ffc1, #19fd24);
+  --green-second-linear: linear-gradient(#00fff2,#73ff8a);
   
-  --conic-red: conic-gradient(#ff5e6b,#ff2f14);
-  --conic-green: conic-gradient(#46ffc1, #19fd24);
-  --conic-blue: conic-gradient(#4366ff, #0e0d5f);
-  --conic-green-2: conic-gradient(#00fff2,#00ff2a);
-  --conic-pink: conic-gradient(#ff0095, #fff025);
-  --conic-purple: conic-gradient(#700099, #5792ff);
+  --blue-linear: linear-gradient(#4366ff, #0e0d5f);
+  --blue-second-linear: linear-gradient(#5792ff, #700099);
+
+  --black-first: #000;
+  --black-second: #000000b3;
+  --black-third: #0000004d;
+  
+  --gray-red-linear: linear-gradient(#ccc, #f99);
+  --gray-green-linear: linear-gradient(#ccc, #9f9);
+  --gray-blue-linear: linear-gradient(#ccc, #99f);
+  
+  --white: #fff;
+  --white-red-linear: linear-gradient(#fff, #f99);
+  --white-green-linear: linear-gradient(#fff, #9f9);
+  --white-blue-linear: linear-gradient(#fff, #99f);
 }
